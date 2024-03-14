@@ -53,8 +53,8 @@ button:hover {
 
 /* Override Bootstrap button hover behavior */
 .btn.btn-square:hover {
-    background-color: blue; /* Preserve the background color */
+    background-color: rgb(23, 209, 23); /* Preserve the background color */
     color: inherit; /* Preserve the text color */
-    border-color: blue; /* Preserve the border color */
+    border-color: rgb(23, 209, 23); /* Preserve the border color */
 }
 
